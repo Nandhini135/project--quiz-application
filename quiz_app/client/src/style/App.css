@@ -1,0 +1,14 @@
+body{
+
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(45deg,rgb(179, 106, 239), rgb(160, 28, 160),rgb(2, 2, 96));
+
+  
+}
+
+
+
+

@@ -1,0 +1,12 @@
+.result{
+    border: rgb(164, 164, 164) solid;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    padding:5px;
+}

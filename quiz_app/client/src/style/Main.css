@@ -1,0 +1,39 @@
+.container {
+
+  display: block;
+  position: relative;
+  margin: 40% auto;
+  color: white;
+
+
+}
+
+.title {
+  color: rgba(235, 242, 36, 0.981);
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  border: rgb(53, 235, 53) solid;
+  margin: 10%;
+
+
+
+}
+
+#form {
+  display: flex;
+  justify-content: center;
+  padding: 7%;
+
+}
+
+#input {
+  height: 30px;
+  width: 200px;
+}
+
+.start {
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+}

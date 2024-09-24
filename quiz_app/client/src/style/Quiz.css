@@ -1,0 +1,17 @@
+.button{
+     display: flex;     justify-content: space-between;
+     padding-top: 10%;
+}
+
+ul{
+     list-style-type: none;
+     padding: 10%;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+
+     
+}
+li{
+     padding: 2%;
+}
